@@ -126,6 +126,8 @@ http://localhost:8080/
 <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/a8af17da-8a1a-4001-ae12-c87f8bdce136" />
 <img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/1161a642-1ca8-4366-b730-6ad6e65a130d" />
 <img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/b50f517b-fce3-407a-8029-408df9af8b72" />
+<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/5268233a-8c01-4152-923c-a5828d5af339" />
+
 
 
 
