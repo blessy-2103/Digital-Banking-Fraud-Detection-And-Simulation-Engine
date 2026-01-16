@@ -12,36 +12,24 @@
 A full–stack banking fraud detection simulator built using Spring Boot, Java, Thymeleaf, and MySQL.
 The system allows real-time dashboards, manual fraud checking, transaction history storage, PDF report generation and ML performance analytics.
 
-#🎯 **Project Objective**
+# 🎯 Project Objectives
 
 1.Detect and assess high-risk financial transactions
-
 2.Provide manual fraud validation with explainable risk reasons
-
 3.Maintain a persistent transaction audit trail
-
 4.Offer real-time dashboards & alerts
-
 5.Visualize ML model health and performance metrics
-
 6.Generate investigation-ready PDF reports
 
 # 🚀 Features
 
-## 🔍 1. Manual Fraud Check
+##  1. 🔐 Authentication & Access Control
 
-User inputs transaction fields such as:
-Account ID
-Amount
-Merchant
-Channel
-Location
-Fraud score is calculated using built-in rule logic.
-
-Displays:
-Fraud Score (0–100%)
-Fraud/Safe status
-Fraud indicators (reason explanation)
+Secure login portal
+Role-based access (Admin / Analyst ready)
+Session termination support
+Backend-controlled routing
+![Login Page] <img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/0624ca16-d113-4f08-bb5c-fae0363a7da3" />
 
 ## 🧾 2. PDF Report Generation
 
